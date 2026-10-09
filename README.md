@@ -7,7 +7,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 * 🎓 Pursuing an MBA in Artificial Intelligence & Data Science at SRM University
 * 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
 * 🐍 Working with Python, Oracle SQL, Excel, and data visualization tools
-* 🏥 Developed a Hospital Analytics Dashboard focused on healthcare analytics and prediction
+* 🏥 Developed a Hospital Analytics Dashboard with machine learning for healthcare analytics and patient-volume forecasting
 * 🌱 Continuously learning and improving my analytical and technical skills
 * 🎯 Career goal: To start my career as a Data Analyst or Business Analyst
 
@@ -47,38 +47,35 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ### 🚀 Featured Projects
 
-#### 🏥 1. Hospital Analytics Dashboard
+#### 🏥 1. Hospital Analytics Dashboard & Patient Load Prediction
 
-* Developed a healthcare analytics project focused on hospital operations and decision support.
+An integrated healthcare analytics project focused on hospital operations, patient-volume forecasting, and data-driven decision-making.
+
 * Analyzed patient records, hospital resources, and healthcare-related data.
-* Used data visualization to present meaningful operational insights.
-* Applied machine learning to explore patient readmission risk and predict future outpatient volume.
+* Performed data preprocessing and exploratory data analysis.
+* Created interactive visualizations to explore hospital operations and patient trends.
+* Used a Random Forest Classifier to analyze patient readmission risk.
+* Used a Random Forest Regressor to forecast future outpatient volume.
+* Explored historical patient volumes, weather conditions, and seasonal trends to support patient-load prediction and hospital resource planning.
 
-**Technologies:** Python, Pandas, Streamlit, Plotly, Scikit-learn
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit, Plotly, Machine Learning
 
-#### 📈 2. Patient Load Prediction
+#### 🗄️ 2. SQL Data Analytics
 
-* Worked on predicting hospital patient volume using historical patient data.
-* Explored weather conditions and seasonal trends that may influence patient demand.
-* Applied data preprocessing, exploratory analysis, and machine learning models.
-* Aimed to support hospital resource planning and operational decisions.
-
-**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
-
-#### 🗄️ 3. SQL Data Analytics
+A collection of SQL practice exercises focused on querying, analyzing, and understanding structured data.
 
 * Practicing SQL queries for data extraction and analysis.
-* Exploring joins, subqueries, aggregate functions, and analytical functions.
-* Building practical SQL exercises to strengthen database querying skills.
+* Exploring joins, subqueries, aggregate functions, and analytic functions.
+* Strengthening database querying and analytical problem-solving skills.
 
-**Technologies:** Oracle SQL
+**Technology:** Oracle SQL
 
 ---
 
 ### 📚 Currently Learning
 
-* Advanced SQL and data analysis
-* Excel dashboards and PivotTables
+* Advanced Oracle SQL and data analysis
+* Excel formulas, PivotTables, and dashboards
 * Python for data analytics
 * Business intelligence and reporting
 * Machine learning fundamentals
